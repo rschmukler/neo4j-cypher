@@ -1,0 +1,24 @@
+{
+  "name": "neo4j-cypher",
+  "version": "0.1.0",
+  "description": "Promise wrapper for cypher queries with neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rschmukler/neo4j-cypher"
+  },
+  "keywords": [
+    "neo4j",
+    "promise",
+    "cypher"
+  ],
+  "author": "Ryan Schmukler <ryan@slingingcode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rschmukler/neo4j-cypher/issues"
+  },
+  "homepage": "https://github.com/rschmukler/neo4j-cypher"
+}
