@@ -3,7 +3,7 @@ Simple promise based API around cypher
 ## Usage
 
 ```
-var db = require('neo4j-cypher')('http://localhost:7474');
+var db = require('neo4j-promised-cypher')('http://localhost:7474');
 db.query('MATCH (p:Person) return p').then(function(results) {
   console.log(results);
 });

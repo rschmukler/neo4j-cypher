@@ -1,5 +1,5 @@
 {
-  "name": "neo4j-cypher",
+  "name": "neo4j-promised-cypher",
   "version": "0.1.0",
   "description": "Promise wrapper for cypher queries with neo4j",
   "main": "index.js",
