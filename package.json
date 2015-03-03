@@ -20,5 +20,16 @@
   "bugs": {
     "url": "https://github.com/rschmukler/neo4j-cypher/issues"
   },
-  "homepage": "https://github.com/rschmukler/neo4j-cypher"
+  "homepage": "https://github.com/rschmukler/neo4j-cypher",
+  "devDependencies": {
+    "co": "^4.4.0",
+    "co-mocha": "^1.1.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "superagent": "^0.21.0",
+    "superagent-bluebird-promise": "^1.0.0"
+  }
 }
